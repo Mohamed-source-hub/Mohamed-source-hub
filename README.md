@@ -1,14 +1,13 @@
-<!-- https://github.com/ShahriarShafin/ -->
-<!-- April 15, 2021 -->
+<!-- https://github.com/Mohamed-source-hub/ -->
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
 <!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
+![Profile views](https://gpvc.arturio.dev/Mohamed-source-hub?v=3)
 
 <!-- Title -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://shahriarshafin.github.io/">Shahriar Shafin</a></b>
+                <b><a target="_blank" href="https://github.com/Mohamed-source-hub">Mohamed Ahmed</a></b>
         </samp>
 </h3>
 <br>
@@ -16,61 +15,57 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 I'm a software developer from <b>Bangladesh</b> 」
+                「 I'm a Cybersecurity Specialist and Ethical Hacker 」
                 <br>
-                「 Focused on creating impactful web applications that improve lives</b> 」
+                「 Focused on securing systems, penetration testing, and analyzing threats 」
                 <br>
                 <br>
         </samp>
-        <!-- Technologies -->
-        <!-- JavaScript -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="JavaScript"
-                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+        <!-- Technologies & Skills Badges -->
+        <!-- Linux -->
+        <a href="https://github.com/Mohamed-source-hub?tab=repositories" target="_blank"><img alt="Linux"
+                        src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
         </a>
-        <!-- React -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="React"
-                        src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
+        <!-- Python -->
+        <a href="https://github.com/Mohamed-source-hub?tab=repositories" target="_blank"><img alt="Python"
+                        src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
         </a>
-        <!-- NextJS -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="NextJS"
-                        src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black">
+        <!-- Wireshark -->
+        <a href="https://github.com/Mohamed-source-hub?tab=repositories" target="_blank"><img alt="Wireshark"
+                        src="https://img.shields.io/badge/-Wireshark-167EE6?style=flat-square&logo=Wireshark&logoColor=white">
         </a>
-        <!-- TailwindCSS -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="TailwindCSS"
-                        src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
+        <!-- Metasploit -->
+        <a href="https://github.com/Mohamed-source-hub?tab=repositories" target="_blank"><img alt="Metasploit"
+                        src="https://img.shields.io/badge/-Metasploit-2496ED?style=flat-square&logo=Metasploit&logoColor=white">
         </a>
-        <!-- Arduino -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Arduino"
-                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+        <!-- Bash -->
+        <a href="https://github.com/Mohamed-source-hub?tab=repositories" target="_blank"><img alt="Bash"
+                        src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white">
         </a>
 </p>
 
 <!-- Details Section -->
 <details align="center">
-    <summary> <samp>&#9776; More</samp></summary>
+    <summary> <samp>&#9776; More Info & Stats</samp></summary>
     <p align="center">
         <br>
         <!-- Activity Widget -->
-        <img alt="Shahriar Shafin's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=ShahriarShafin&show_icons=true&theme=radical" />
+        <img alt="Mohamed Ahmed's GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api?username=Mohamed-source-hub&show_icons=true&theme=radical" />
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
         <!-- Mail -->
-        <a href="mailto:connect.shafin@gmail.com" target="_blank"><img alt="Mail"
+        <a href="mailto:your.email@example.com" target="_blank"><img alt="Mail"
                 src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
-        <!-- Twitter -->
-        <a href="https://twitter.com/connectshafin" target="_blank"><img alt="Twitter"
-                src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white">
-        </a>
         <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/shahriarshafin/" target="_blank"><img alt="Linkedin"
+        <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
-        <!-- Youtube -->
-        <a href="https://www.youtube.com/c/ShahriarShafin/videos" target="_blank"><img alt="Youtube"
-                src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
+        <!-- Twitter/X -->
+        <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank"><img alt="Twitter"
+                src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white">
         </a>
     </p>
 </details>
@@ -81,29 +76,19 @@
     <p align="center">
         ════ ⋆★⋆ ════
         <br>
-        "Happy Coding👨‍💻"
+        "Securing the world, one bit at a time 🛡️"
     </p>
 </samp>
 
 <!-- Featured Repositories -->
-#### Featured
+#### Featured Projects
 
 <p align="center">
-<a href="https://github.com/shahriarshafin/shahriarshafin">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=shahriarshafin&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/Mohamed-source-hub/YOUR_REPO_1">
+<img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-source-hub&repo=YOUR_REPO_1&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/shahriarshafin/disney-plus-clone">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=disney-plus-clone&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/shahriarshafin/NodeMcu-ESP8266_Fake_sign_in">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=NodeMcu-ESP8266_Fake_sign_in&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/shahriarshafin/Iot-car-controller">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=iot-car-controller&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/Mohamed-source-hub/YOUR_REPO_2">
+<img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-source-hub&repo=YOUR_REPO_2&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
